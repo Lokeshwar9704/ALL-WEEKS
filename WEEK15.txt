@@ -1,7 +1,8 @@
-#Devops For AI
+# Coursera for devops AI
 
 
 Name: Lokeshwar Reddy 
 USN: 23BTRCL217
 
+Introduction to Devops
 
