@@ -1,8 +1,2 @@
-# Coursera for devops AI
-
-
-Name: Lokeshwar Reddy 
-USN: 23BTRCL217
-
-Introduction to Devops
+https://github.com/Lokeshwar9704/coursera.git
 
